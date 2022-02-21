@@ -1,1 +1,2 @@
-# Class-35-Sync-ball
+# synchronousBallMovement
+Ball moving synchronously
